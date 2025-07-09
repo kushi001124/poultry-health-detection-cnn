@@ -1,2 +1,2 @@
 # poultry-health-detection-cnn
-A deep learning-based computer vision system for automated poultry health monitoring through fecal matter analysis. This project implements CNN architectures to classify poultry health status, providing farmers with early disease detection capabilities.
+A computer vision-based solution for early disease detection in poultry farming. This system uses Convolutional Neural Networks to analyze fecal matter images and classify poultry health status, helping farmers identify sick birds before symptoms become visible. The project implements both MobileNet V3 for mobile deployment and ResNet-18 for high-accuracy detection, with comprehensive data augmentation and transfer learning optimization.
